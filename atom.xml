@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-01-20T16:57:32.019Z</updated>
+  <updated>2020-01-21T03:16:03.610Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2020/01/20/UpdateLog/"/>
     <id>http://yoursite.com/2020/01/20/UpdateLog/</id>
     <published>2020-01-20T15:09:55.000Z</published>
-    <updated>2020-01-20T16:57:32.019Z</updated>
+    <updated>2020-01-21T03:16:03.610Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="网站更新日志"><a href="#网站更新日志" class="headerlink" title="网站更新日志"></a>网站更新日志</h2><h3 id="2020-01-21"><a href="#2020-01-21" class="headerlink" title="2020.01.21"></a>2020.01.21</h3><ul><li>优化网站界面</li><li>添加鼠标点击特效</li><li>添加网站动态背景</li><li>修改标签图标</li><li>添加侧栏头像，加入旋转特效</li><li>添加RSS订阅</li><li>添加网站浏览人数显示</li><li>添加侧栏阅读进度+一键回顶</li><li>更新友链</li><li>默认显示分类/标签/归档页的内容量</li><li>默认显示底栏</li></ul><a id="more"></a><h3 id="2020-01-20"><a href="#2020-01-20" class="headerlink" title="2020.01.20"></a>2020.01.20</h3><ul><li>将网站部署环境迁移至自有阿里云服务器，实现在任何设备上更新</li><li>调整网站框架</li><li>发布“网站更新日志”</li><li>加入侧栏社交链接</li><li>修改文案错误</li><li>加入侧栏友链</li><li>加入标签词云</li><li>加入文章内容截断</li><li>添加网站图标</li></ul><h3 id="2020-01-17"><a href="#2020-01-17" class="headerlink" title="2020.01.17"></a>2020.01.17</h3><ul><li>在家用电脑上搭建网站部署环境</li><li>使用GitHub+Hexo完成建站工作</li><li>发布“写在创始之初”，开启网站小范围内测</li><li>初步完成网站框架</li><li>将源码上传至GitHub</li></ul><h2 id="网站计划列表"><a href="#网站计划列表" class="headerlink" title="网站计划列表"></a>网站计划列表</h2><ol><li>开放评论系统</li><li>更新“关于”页面</li><li>上传班级照片</li><li>完善网络基础功能</li><li>绑定域名</li><li><del>将部署环境迁移至云上</del></li><li>美化界面</li><li>优化网站性能</li><li>对外开放</li></ol>]]></content>
+    <content type="html"><![CDATA[<h2 id="网站更新日志"><a href="#网站更新日志" class="headerlink" title="网站更新日志"></a>网站更新日志</h2><h3 id="2020-01-21"><a href="#2020-01-21" class="headerlink" title="2020.01.21"></a>2020.01.21</h3><ul><li>优化网站界面</li><li>添加鼠标点击特效</li><li>添加网站动态背景</li><li>修改标签图标</li><li>添加侧栏头像，加入旋转特效</li><li>添加RSS订阅</li><li>添加网站浏览人数显示</li><li>添加侧栏阅读进度+一键回顶</li><li>更新友链</li><li>默认显示分类/标签/归档页的内容量</li><li>默认显示侧栏</li><li>添加网页小宠物Niku！</li><li>开放评论！</li><li>使用gulp插件压缩网页，加快访问速度</li><li>加快鼠标响应速度</li><li>加入本地搜索</li><li>加入文章置顶</li></ul><a id="more"></a><h3 id="2020-01-20"><a href="#2020-01-20" class="headerlink" title="2020.01.20"></a>2020.01.20</h3><ul><li>将网站部署环境迁移至自有阿里云服务器，实现在任何设备上更新</li><li>调整网站框架</li><li>发布“网站更新日志”</li><li>加入侧栏社交链接</li><li>修改文案错误</li><li>加入侧栏友链</li><li>加入标签词云</li><li>加入文章内容截断</li><li>添加网站图标</li></ul><h3 id="2020-01-17"><a href="#2020-01-17" class="headerlink" title="2020.01.17"></a>2020.01.17</h3><ul><li>在家用电脑上搭建网站部署环境</li><li>使用GitHub+Hexo完成建站工作</li><li>发布“写在创始之初”，开启网站小范围内测</li><li>初步完成网站框架</li><li>将源码上传至GitHub</li></ul><h2 id="网站计划列表"><a href="#网站计划列表" class="headerlink" title="网站计划列表"></a>网站计划列表</h2><ol><li><del>开放评论系统</del></li><li>更新“关于”页面</li><li>上传班级照片</li><li>完善网络基础功能</li><li>绑定域名</li><li><del>将部署环境迁移至云上</del></li><li>美化界面</li><li>优化网站性能</li><li>对外开放</li></ol>]]></content>
     
     <summary type="html">
     
@@ -38,7 +38,13 @@
 &lt;li&gt;添加侧栏阅读进度+一键回顶&lt;/li&gt;
 &lt;li&gt;更新友链&lt;/li&gt;
 &lt;li&gt;默认显示分类/标签/归档页的内容量&lt;/li&gt;
-&lt;li&gt;默认显示底栏&lt;/li&gt;
+&lt;li&gt;默认显示侧栏&lt;/li&gt;
+&lt;li&gt;添加网页小宠物Niku！&lt;/li&gt;
+&lt;li&gt;开放评论！&lt;/li&gt;
+&lt;li&gt;使用gulp插件压缩网页，加快访问速度&lt;/li&gt;
+&lt;li&gt;加快鼠标响应速度&lt;/li&gt;
+&lt;li&gt;加入本地搜索&lt;/li&gt;
+&lt;li&gt;加入文章置顶&lt;/li&gt;
 &lt;/ul&gt;
     
     </summary>
@@ -54,7 +60,7 @@
     <link href="http://yoursite.com/2020/01/17/FirstPage/"/>
     <id>http://yoursite.com/2020/01/17/FirstPage/</id>
     <published>2020-01-17T08:05:03.000Z</published>
-    <updated>2020-01-20T15:35:44.991Z</updated>
+    <updated>2020-01-21T03:16:26.650Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Hello-这里是XianYu-Hil！"><a href="#Hello-这里是XianYu-Hil！" class="headerlink" title="Hello,这里是XianYu_Hil！"></a>Hello,这里是XianYu_Hil！</h1><p>这应该算是<strong>K二7班</strong>的一个<strong>小小的官网</strong>吧，就当做是给<strong>全体7班同学们</strong>的<strong>礼物</strong>了！<br><strong>非常感谢有大家在的每一天。</strong></p><h3 id="内测通告："><a href="#内测通告：" class="headerlink" title="内测通告："></a>内测通告：</h3><p><strong>目前该网站仍处于内测阶段，会有较大变动。</strong><br>如有什么Bug/问题/想法/意见/建议，可以直接提出（趁我放假时间多）<br><strong>请暂时不要将本网站向外宣传！请暂时不要将本网站向外宣传！请暂时不要将本网站向外宣传！</strong>（避免我鸽了尴尬），我会寻找合适的时间，届时再开放。</p><a id="more"></a><p>现在这个官网暂时没有确认下来要用来做什么，你们如果有任何意见或建议可以随时联系我。</p><h3 id="联系方式："><a href="#联系方式：" class="headerlink" title="联系方式："></a>联系方式：</h3><p><strong>QQ</strong> 3033619778<br><strong>微信</strong> XianYu_Hil<br><strong>邮箱地址</strong> 3033619778@qq.com / <a href="mailto:Happy123ye@gmail.com">Happy123ye@gmail.com</a> / <a href="mailto:XianYu_Hil@outlook.com">XianYu_Hil@outlook.com</a><br><strong>电话</strong> 13159085410</p><h3 id="计划列表："><a href="#计划列表：" class="headerlink" title="计划列表："></a>计划列表：</h3><ol><li>发布班级的照片/视频</li><li>发布一些通知/公告</li><li>发布一些文章之类的</li><li>开放评论系统，用于交流</li><li>纪念。</li></ol><p>——HilStudio<br>2020.01.17</p>]]></content>
     
